@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../nhanh c"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Nhanh",
+    "editor.formatOnSave": true
+  }
+}
